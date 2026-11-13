@@ -34,7 +34,7 @@ namespace lve {
 
 
     namespace {
-        constexpr const char* SERVER_IP = "127.0.0.1";
+        constexpr const char* SERVER_IP = "192.168.1.33";//127.0.0.1
         constexpr int SERVER_PORT = 7777;
         FirstApp* gActiveChatApp = nullptr;
 
